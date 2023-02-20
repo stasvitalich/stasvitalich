@@ -5,7 +5,7 @@ Android Developer📱
 ---------------------------------------------------
 
 
-*   🌍  I'm based in Barnaul, Russia
+*   🌍  I'm based in Pavlodar, Kazakhstan
 *   🖥️  See my portfolio [here](https://github.com/stasvitalich?tab=repositories)
 *   ✉️  You can contact me via email: stasvitalich1994@gmail.com
 *   🚀  I am currently working as a freelancer
