@@ -43,7 +43,7 @@ Android Developer📱
 
 
 
-[![Top Lang's](https://github-readme-new-stats-g2ag.vercel.app/api/top-langs/?username=stasvitalich&theme=codeSTACKr&show_icons=true&layout=compact&token=${process.env.PAT_1})](https://github.com/stasvitalich)
+[![Top Lang's](https://new-stats-g2ag.vercel.app/api/top-langs/?username=stasvitalich&theme=codeSTACKr&show_icons=true&layout=compact&token=${process.env.PAT_1})](https://github.com/stasvitalich)
 
 
 
