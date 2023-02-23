@@ -39,9 +39,6 @@ Android Developer📱
 
 <a href="https://www.github.com/stasvitalich"><img src="https://new-stats-g2ag.vercel.app/api?username=stasvitalich&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=181824&hide_border=true" alt="stasvitalich's GitHub stats" /></a>
 
-<a href="https://www.github.com/stasvitalich"><img src="https://new-stats-g2ag.vercel.app/api? user=stasvitalich&stroke=ffffff&background=181824&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="stasvitalich's GitHub streak stats" /></a>
-
-
 
 [![Top Lang's](https://new-stats-g2ag.vercel.app/api/top-langs/?username=stasvitalich&theme=codeSTACKr&show_icons=true&layout=compact&token=${process.env.PAT_1})](https://github.com/stasvitalich)
 
